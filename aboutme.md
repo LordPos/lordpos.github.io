@@ -1,8 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle:
+subtitle: null
+published: true
 ---
 
-I recently started a PhD in machine/deep learning at the [Institut of Bioinformatics](http://www.bioinf.jku.at/) of the Johannes Kepler University in Linz, Austria in the team of Sepp Hochreiter.
-Previously I worked at the Institute of Water Management, Hydrology and Hydraulic Engineering at the BOKU University in Vienna, as a research assistant. I did my Master in environmental engineering ant the topic of my Master thesis was the development of a software as part of a semi-automatic monitoring system for fish migration in fish passes. The thesis can be found [here](http://permalink.obvsg.at/bok/AC13359496) (in German only). In my time as research assistant at the BOKU university I mostly worked on machine learning applications in the field of hydrology and environmental sciences.
+I'm a high-schooler, functional programming enthusiast (thanks Haskell), and competitive programmer. I work mostly on the backend side of things, and I enjoy reading and learning stuff.
+
+I'm proficient in Python, Haskell, and Go and fairly fluent in Julia, Rust, Scheme and C++. I enjoy learning languages with radically different paradigms, so you're next, Prolog.
+
+Quantum computation and Lambda calculus are neat.
+
+My name is Harshith and I live in nowhere, India. Shoot an email at lordposeidon@vivaldi.net if you'd like to contact me for anything, I'm always up for cool side-projects.
